@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate tech enthusiast with a background in **Co
 - Operating System Design & Low-Level Programming
 - Mathematical Foundations for Databases & AI
 - Power BI & Excel for Business Intelligence
-- Building Smart EV Charging & Navigation Systems (Capstone Project: **ChargeMate**)
+- Building Smart EV Charging & Navigation Systems (Capstone Project: **Charge Mate**)
 
 ## 💞️ I’m looking to collaborate on
 
