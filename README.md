@@ -5,6 +5,7 @@ Welcome to my GitHub! I'm a passionate tech enthusiast with a background in **Co
 ## 👀 I’m interested in
 
 - Machine Learning & Artificial Intelligence
+- Large Language Model
 - Full-Stack Development (React, Node.js, MongoDB)
 - Data Science & Analytics
 - Microsoft Excel, Power BI & Tableau for Business Intelligence
