@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate tech enthusiast with a background in **Co
 
 ## 💞️ I’m looking to collaborate on
 
-- Open-source AI/ML projects
+- Open-source AI-ML projects
 - Full-stack web applications
 - Data science and visualization projects
 - Innovative solutions for electric vehicles & smart grids
