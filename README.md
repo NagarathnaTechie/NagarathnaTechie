@@ -27,9 +27,9 @@ Welcome to my GitHub! I'm a passionate tech enthusiast with a background in **Co
 
 ## 📫 How to reach me
 
-- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nagarathna-shenoy-457751218)  
-- **GitHub**: [NagarathnaTechie](https://github.com/NagarathnaTechie)
-- **Email**: [nagarathnashenoy123@gmail.com](mailto\:nagarathnashenoy123@gmail.com)
+- **LinkedIn** : [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nagarathna-shenoy-457751218)  
+- **GitHub** : [NagarathnaTechie](https://github.com/NagarathnaTechie)
+- **Email** : [nagarathnashenoy123@gmail.com](mailto\:nagarathnashenoy123@gmail.com)
 
 ## 😄 Pronouns:
 
