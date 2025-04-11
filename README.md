@@ -2,7 +2,6 @@
 
 Welcome to my GitHub! I'm a passionate tech enthusiast with a background in **Computer Applications**. I love building scalable and intelligent solutions, especially in **AI-ML, Data Analysis and Full-stack development**.
 
-
 ## 👀 I’m interested in
 
 - Machine Learning & Artificial Intelligence
